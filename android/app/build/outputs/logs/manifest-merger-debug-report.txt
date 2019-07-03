@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
-MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/0d62ca307170e8820b72ed02b4ff3ca3/AndroidManifest.xml:2:1-15:12
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e7bc45cff16425425d3a72f933f48363/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/435b61a91107b071565d86e36b536411/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/46c1abf90d40f9cd91b200ff35b92218/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/dc74bd81524db7c068b06cb7379bf554/AndroidManifest.xml:2:1-9:12
@@ -25,85 +25,85 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kobilee/.gradle/
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/52485f94e2e2763b117ee7b99a8c51aa/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c66bd9157a2bb97cee15b85e46bc48e9/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3068b3a87481a22559d0bf6f13b0d857/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:2:5-30
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
-MERGED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+MERGED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/0d62ca307170e8820b72ed02b4ff3ca3/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/0d62ca307170e8820b72ed02b4ff3ca3/AndroidManifest.xml:11:5-78
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e7bc45cff16425425d3a72f933f48363/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e7bc45cff16425425d3a72f933f48363/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/0d62ca307170e8820b72ed02b4ff3ca3/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/0d62ca307170e8820b72ed02b4ff3ca3/AndroidManifest.xml:13:5-20
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e7bc45cff16425425d3a72f933f48363/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e7bc45cff16425425d3a72f933f48363/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/3d70ade8bcacbd2195d806820f57d3e3/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/3d70ade8bcacbd2195d806820f57d3e3/AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f7ca4c56e209f15a1794593759a95361/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/f7ca4c56e209f15a1794593759a95361/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:8:7-38
 activity#com.voicenative.MainActivity
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
-MERGED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
-MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/0d62ca307170e8820b72ed02b4ff3ca3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/0d62ca307170e8820b72ed02b4ff3ca3/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e7bc45cff16425425d3a72f933f48363/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/e7bc45cff16425425d3a72f933f48363/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/435b61a91107b071565d86e36b536411/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/435b61a91107b071565d86e36b536411/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/46c1abf90d40f9cd91b200ff35b92218/AndroidManifest.xml:5:5-7:41
@@ -140,25 +140,25 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kobilee/.gradle/caches
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c66bd9157a2bb97cee15b85e46bc48e9/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3068b3a87481a22559d0bf6f13b0d857/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/kobilee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3068b3a87481a22559d0bf6f13b0d857/AndroidManifest.xml:20:5-44
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:9-51
+		ADDED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:9-51
 	android:targetSdkVersion
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+ADDED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
 	android:name
-		ADDED from [:react-native-voice] /Users/kobilee/Projects/VoiceNative/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-68
+		ADDED from [:react-native-voice] /Users/kobilee/Projects/Whistle/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/kobilee/Projects/VoiceNative/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/kobilee/Projects/Whistle/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

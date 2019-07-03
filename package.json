@@ -6,8 +6,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
+    "@eva-design/eva": "^1.0.1",
     "react": "16.5.0",
     "react-native": "0.57.1",
+    "react-native-ui-kitten": "^4.0.5",
     "react-native-voice": "^0.2.6"
   },
   "devDependencies": {

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kobilee/Projects/VoiceNative/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+            "outputFile": "/Users/kobilee/Projects/Whistle/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
             "map": [
                 {
                     "source": "/Users/kobilee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/435b61a91107b071565d86e36b536411/res/values-kn/values-kn.xml",
